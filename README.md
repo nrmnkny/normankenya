@@ -44,7 +44,7 @@
 >
 > ## Let's Connect
 >
-> If you're on a similar journey or have insights to share, let's connect! You can find me on and x.com/nrmkny
+> If you're on a similar journey or have insights to share, let's connect! You can find me @ x.com/nrmkny
 >
 > _"In learning you will teach, and in teaching you will learn."_ - Phil Collins
 >
