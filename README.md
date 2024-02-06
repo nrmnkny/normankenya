@@ -1,5 +1,5 @@
 - 👋 Every great developer starts with a 'Hello, World!' and somehow ends up Googling 'how to center a div.' This is my quest from console.logs to dodging callback hell in the wild lands of JS.
-- 🌱 
+- 🌱 .learn('web')
 > ## About This Repository
 >
 > This repository serves as a personal archive of my projects, experiments, and progress as I delve into the world programming. It is both a showcase and a diary, capturing my development as I navigate through the challenges and triumphs of learning and understanding different technologies.
